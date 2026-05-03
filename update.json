@@ -1,14 +1,14 @@
 {
-  "version": "1.1.0",
-  "download_url": "https://github.com/mrpsiho/craftforms/releases/download/v1.1.0/craftforms.zip",
+  "version": "1.1.1",
+  "download_url": "https://github.com/mrpsiho/craftforms/releases/download/v1.1.1/craftforms.zip",
   "details_url": "https://craftformswp.com",
   "requires": "6.9",
   "tested": "6.7",
   "requires_php": "8.1",
   "name": "CraftForms",
   "author": "<a href=\"https://craftformswp.com\">Vitalii Kiiko</a>",
-  "last_updated": "2026-04-27",
+  "last_updated": "2026-05-03",
   "description": "CraftForms is a comprehensive tool for building web forms of any complexity! Build forms visually using Gutenberg editor.",
-  "changelog": "<h4>1.1.0</h4><ul><li>Updated starters, styles and functionality.</li></ul>",
+  "changelog": "<h4>1.1.1</h4><ul><li>Fixed minor issues related to styles and accessibility.</li></ul>",
   "upgrade_notice": ""
 }
