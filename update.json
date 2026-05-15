@@ -1,14 +1,14 @@
 {
-  "version": "1.1.3",
-  "download_url": "https://github.com/mrpsiho/craftforms/releases/download/1.1.3/craftforms.zip",
+  "version": "1.1.4",
+  "download_url": "https://github.com/mrpsiho/craftforms/releases/download/1.1.4/craftforms.zip",
   "details_url": "https://craftformswp.com",
   "requires": "6.9",
   "tested": "6.7",
   "requires_php": "8.1",
   "name": "CraftForms",
   "author": "<a href=\"https://craftformswp.com\">Vitalii Kiiko</a>",
-  "last_updated": "2026-05-07",
+  "last_updated": "2026-05-15",
   "description": "CraftForms is a comprehensive tool for building web forms of any complexity! Build forms visually using Gutenberg editor.",
-  "changelog": "<h4>1.1.3</h4><ul><li>Improved: the accessibility of the forms</li><li>Fixed: custom headers now automatically allowed for CORS for forms enabled for external submissions</li></ul>",
+  "changelog": "<h4>1.1.4</h4><ul><li>Improved: booking related settings, added from/until number of days datepicker availability</li><li>Added: Elementor and Bricks native widgets/elements</li><li>Added: submit action "Webhook"</li><li>Fixed: a bug in the file upload field</li></ul>",
   "upgrade_notice": ""
 }
